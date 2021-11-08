@@ -21,3 +21,6 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 import plotly.graph_objects as go
+
+[foto](https://d500.epimg.net/cincodias/imagenes/2020/03/06/legal/1583511171_908314_1583511312_noticia_normal_recorte1.jpg)
+
